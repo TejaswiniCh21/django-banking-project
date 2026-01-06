@@ -40,7 +40,8 @@ INSTALLED_APPS = [
 
     'accounts',
     'users.apps.UsersConfig',
-    'home'
+    'home',
+    'user_accounts'
 ]
 
 MIDDLEWARE = [
